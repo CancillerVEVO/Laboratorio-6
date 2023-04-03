@@ -9,3 +9,7 @@
     background-color: #000;
     position: relative;
 }
+.food-card {
+    width: 33%;
+    font-size: 1.2rem
+}
